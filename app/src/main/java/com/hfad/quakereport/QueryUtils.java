@@ -30,7 +30,7 @@ public class QueryUtils {
      */
     private QueryUtils() {
     }
-
+ 
     /**
      * Return a list of {@link Earthquake} objects that has been built up from
      * parsing a JSON response.
